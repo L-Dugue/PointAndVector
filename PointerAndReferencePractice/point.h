@@ -18,37 +18,19 @@ class Point2D
 		/// Print out Coords and Name of Point
 		/// </summary>
 		/// <returns></returns>
-		const void PrintPoint2D(); 
-
-		/// <summary>
-		/// Returns the X pos of the Point
-		/// </summary>
-		/// <returns></returns>
-		const int ReturnPoint2DX();
-
-
-		/// <summary>
-		/// Returns the Y pos of the Point
-		/// </summary>
-		/// <returns></returns>
-		const int ReturnPoint2DY();
-		
+		void Print2D() const;
 
 		// Getters
-		const std::string& GetName();
-		const int GetXPos();
-		const int GetYPos();
+		std::string& GetName() const;
+		int GetXPos() const;
+		int GetYPos() const;
 
 		// Setters
 		void SetName(const std::string& newName);
 		void SetXPos(const int newX);
-		void setYPos(const int newY);
+		void SetYPos(const int newY);
 
 };
-
-
-
-
 
 #endif
 

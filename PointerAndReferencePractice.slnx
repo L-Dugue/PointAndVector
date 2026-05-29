@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="PointerAndReferencePractice/PointerAndReferencePractice.vcxproj" />
+  <Project Path="PointerAndReferencePractice/PointerAndReferencePractice.vcxproj" Id="10c26baf-988c-4d9f-a014-79996a482db5" />
 </Solution>
