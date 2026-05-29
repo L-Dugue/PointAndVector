@@ -27,7 +27,7 @@ void Point2D::SetYPos(const int newY) { Point2D::pointPos[1] = std::clamp(newY, 
 // Extra Methods
 void Point2D::Print2D() const
 {
-	std::cout << "Point Name: " + Point2D::name << std::endl;
-	std::cout << "Point Pos: [" << Point2D::GetXPos() << "," << Point2D::GetYPos() << "]" << std::endl;
+	std::cout << "Name: " + Point2D::name << std::endl;
+	std::cout << "Pos: [" << Point2D::GetXPos() << "," << Point2D::GetYPos() << "]" << std::endl;
 }
 
