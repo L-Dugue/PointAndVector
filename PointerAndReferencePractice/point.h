@@ -13,6 +13,7 @@ class Point2D
 	public:
 
 		Point2D(const std::string& _name, int posX, int posY); // Constructor
+		virtual ~Point2D(); // Deconstructor 
 
 		/// <summary>
 		/// Print out Coords and Name of Point

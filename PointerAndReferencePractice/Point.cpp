@@ -8,6 +8,12 @@ Point2D::Point2D(const std::string& _name, int posX, int posY) : name(_name)
 	Point2D::pointPos[1] = posY;
 }
 
+Point2D::~Point2D()
+{
+	delete Point2D::pointPos;
+	std::cout << "\nPoint Deleted";
+}
+
 // Getters 
 int Point2D::GetXPos() const { return Point2D::pointPos[0]; }
 int Point2D::GetYPos() const { return Point2D::pointPos[1]; }
