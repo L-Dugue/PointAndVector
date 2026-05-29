@@ -1,21 +1,17 @@
 #include <iostream>
 #include "point.h"
+#include "vector.h"
 
 using namespace std;
 
 int main()
 {
 	// Creation of Points
-	Point2D* point = new Point2D("Felix", 0, 1);
-	Point2D* point2 = new Point2D("Alex", 1, 3);
-	
-	// Print out Info of Points
-	point->Print2D();
-	point2->Print2D();
+	Vector2D* vector = new Vector2D("Al", 3, std::vector<double> {1, 1}, 0, 0);
+	Point2D* point = new Point2D("Felix", 0, 2);
 
-	// Deconstruct Points
-	point->~Point2D();
-	point2->~Point2D();
+	vector->Print2D();
+	point->Print2D();
 
 
 	return 0;

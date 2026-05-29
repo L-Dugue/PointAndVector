@@ -2,6 +2,7 @@
 #define POINT2D_H
 
 #include <iostream>
+#include <algorithm>
 
 class Point2D 
 {
@@ -13,7 +14,7 @@ class Point2D
 	public:
 
 		Point2D(const std::string& _name, int posX, int posY); // Constructor
-		~Point2D(); // Deconstructor 
+		virtual ~Point2D(); // Deconstructor 
 
 		/// <summary>
 		/// Print out Coords and Name of Point

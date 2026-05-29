@@ -1,5 +1,4 @@
 #include "point.h"
-#include <algorithm>
 
 Point2D::Point2D(const std::string& _name, int posX, int posY) : name(_name)
 {
