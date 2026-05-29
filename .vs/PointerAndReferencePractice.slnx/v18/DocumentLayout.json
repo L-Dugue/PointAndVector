@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{10C26BAF-988C-4D9F-A014-79996A482DB5}|PointerAndReferencePractice\\PointerAndReferencePractice.vcxproj|solutionrelative:PointerAndReferencePractice\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{10C26BAF-988C-4D9F-A014-79996A482DB5}|PointerAndReferencePractice\\PointerAndReferencePractice.vcxproj|C:\\Users\\ldugu\\OneDrive\\Desktop\\CPP_Projects\\PointerAndReferencePractice\\PointerAndReferencePractice\\point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10C26BAF-988C-4D9F-A014-79996A482DB5}|PointerAndReferencePractice\\PointerAndReferencePractice.vcxproj|solutionrelative:PointerAndReferencePractice\\point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10C26BAF-988C-4D9F-A014-79996A482DB5}|PointerAndReferencePractice\\PointerAndReferencePractice.vcxproj|C:\\Users\\ldugu\\OneDrive\\Desktop\\CPP_Projects\\PointerAndReferencePractice\\PointerAndReferencePractice\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{10C26BAF-988C-4D9F-A014-79996A482DB5}|PointerAndReferencePractice\\PointerAndReferencePractice.vcxproj|solutionrelative:PointerAndReferencePractice\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10C26BAF-988C-4D9F-A014-79996A482DB5}|PointerAndReferencePractice\\PointerAndReferencePractice.vcxproj|C:\\Users\\ldugu\\OneDrive\\Desktop\\CPP_Projects\\PointerAndReferencePractice\\PointerAndReferencePractice\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{10C26BAF-988C-4D9F-A014-79996A482DB5}|PointerAndReferencePractice\\PointerAndReferencePractice.vcxproj|solutionrelative:PointerAndReferencePractice\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10C26BAF-988C-4D9F-A014-79996A482DB5}|PointerAndReferencePractice\\PointerAndReferencePractice.vcxproj|C:\\Users\\ldugu\\OneDrive\\Desktop\\CPP_Projects\\PointerAndReferencePractice\\PointerAndReferencePractice\\point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{10C26BAF-988C-4D9F-A014-79996A482DB5}|PointerAndReferencePractice\\PointerAndReferencePractice.vcxproj|solutionrelative:PointerAndReferencePractice\\point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "PointerAndReferencePractice\\main.cpp",
               "ToolTip": "C:\\Users\\ldugu\\OneDrive\\Desktop\\CPP_Projects\\PointerAndReferencePractice\\PointerAndReferencePractice\\main.cpp",
               "RelativeToolTip": "PointerAndReferencePractice\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-28T01:23:54.138Z",
               "IsPinned": true,
@@ -54,35 +54,14 @@
               "RelativeDocumentMoniker": "PointerAndReferencePractice\\Vector.cpp",
               "ToolTip": "C:\\Users\\ldugu\\OneDrive\\Desktop\\CPP_Projects\\PointerAndReferencePractice\\PointerAndReferencePractice\\Vector.cpp",
               "RelativeToolTip": "PointerAndReferencePractice\\Vector.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-29T16:05:42.881Z",
               "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "d6d17165-c1d4-45f2-8a64-9d1558364a5e",
-        "Display": 1,
-        "X": 20,
-        "Y": 79,
-        "Width": 1905,
-        "Height": 958,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "vector.h",
               "DocumentMoniker": "C:\\Users\\ldugu\\OneDrive\\Desktop\\CPP_Projects\\PointerAndReferencePractice\\PointerAndReferencePractice\\vector.h",
               "RelativeDocumentMoniker": "PointerAndReferencePractice\\vector.h",
@@ -95,26 +74,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Point.cpp",
               "DocumentMoniker": "C:\\Users\\ldugu\\OneDrive\\Desktop\\CPP_Projects\\PointerAndReferencePractice\\PointerAndReferencePractice\\Point.cpp",
               "RelativeDocumentMoniker": "PointerAndReferencePractice\\Point.cpp",
               "ToolTip": "C:\\Users\\ldugu\\OneDrive\\Desktop\\CPP_Projects\\PointerAndReferencePractice\\PointerAndReferencePractice\\Point.cpp",
               "RelativeToolTip": "PointerAndReferencePractice\\Point.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-29T15:51:14.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "point.h",
               "DocumentMoniker": "C:\\Users\\ldugu\\OneDrive\\Desktop\\CPP_Projects\\PointerAndReferencePractice\\PointerAndReferencePractice\\point.h",
               "RelativeDocumentMoniker": "PointerAndReferencePractice\\point.h",
               "ToolTip": "C:\\Users\\ldugu\\OneDrive\\Desktop\\CPP_Projects\\PointerAndReferencePractice\\PointerAndReferencePractice\\point.h",
               "RelativeToolTip": "PointerAndReferencePractice\\point.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-28T01:26:53.497Z",
               "EditorCaption": ""
